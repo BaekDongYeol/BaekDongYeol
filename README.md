@@ -1,13 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=마법의城%20GITHUB&fontSize=90&animation=fadeIn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekDongYeol&layout=compact)](https://github.com/BaekDongYeol/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=ffffff)
+![자바](https://img.shields.io/badge/-자바-123456?style=flat&logo=Java&logoColor=ffffff)
+![COBOL](https://img.shields.io/badge/-COBOL-123456?style=flat&logo=COBOL&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-123456?style=flat&logo=Python&logoColor=ffffff)
+![XPlatForm](https://img.shields.io/badge/-XPlatForm-007396?style=flat&logo=XPlatForm&logoColor=blue)
+![PowerBuilder](https://img.shields.io/badge/-PowerBuilder-007396?style=flat&logo=PowerBuilder&logoColor=blue)
+![OrcleDB](https://img.shields.io/badge/-OrcleDB-1F305F?style=flat-square&logo=OrcleDB&logoColor=green)
+![MySQL](https://img.shields.io/badge/-MySQL-1F305F?style=flat-square&logo=MySQL&logoColor=green)
+![DB2](https://img.shields.io/badge/-DB2-1F305F?style=flat-square&logo=DB2&logoColor=green)
+
 
 # Hi there 👋
 ## Hi there 👋
