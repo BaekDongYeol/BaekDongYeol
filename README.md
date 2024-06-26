@@ -12,26 +12,16 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-1F305F?style=flat-square&logo=MySQL&logoColor=green)
 ![DB2](https://img.shields.io/badge/-DB2-1F305F?style=flat-square&logo=DB2&logoColor=green)
 
+# ********** 주요 경력 ********** 
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**두껍게**<br>
-*기울임*<br>
-~~취소선~~
+2000. 5 ~ 2007. 2 교보정보통신 주식/파생상품 주문 개발,보험사 특별계정 회계 시스템 개발/유지보수
 
-*1번
-*2번
+2007. 3 ~ 2023.12 신한펀드파트너스 기관투자가 성과평과/리스크 시스템 개발/유지보수, 리츠/PEF 회계 시스템 개발/유지보수
 
--1번
--2번
+2024. 4 ~         멀티캠퍼스 금융&마케팅 데이터분석 수강중(ML/DL/생성형 AI/크롤링)
 
-[네이버](naver.com)
 
-```
-print('Hello World')
-```
+파이썬 금융데이터 크롤링 및 멀티캠퍼스 강의 관련 자료 올릴 예정이니 참고하시기 바랍니다.
+감사합니다.
+
 #:smirk:
